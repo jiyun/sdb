@@ -2,17 +2,15 @@
 Automatically exported from code.google.com/p/jiyun
 
 ## 六魔包 github 上的分发点
-路过请加星 或 Fork后下载
+        路过请加星 或 Fork后下载
 
-如果不方便这里下载
----
-微云：https://share.weiyun.com/5uhqBBA
----
-链接: https://pan.baidu.com/s/13mF4JwQp5kG74eJk7CUxXQ 提取码: s7bd 
----
-http://bbs.wow.blizzard.cn/forum.php?mod=viewthread&tid=548701
----
-https://bbs.nga.cn/read.php?tid=18472776&_ff=663
+        如果这里不方便，请移步这里下载。
+
+        微云：https://share.weiyun.com/5uhqBBA
+        链接: https://pan.baidu.com/s/13mF4JwQp5kG74eJk7CUxXQ 提取码: s7bd 
+### 联动帖子
+        http://bbs.wow.blizzard.cn/forum.php?mod=viewthread&tid=548701
+        https://bbs.nga.cn/read.php?tid=18472776&_ff=663
 
     !!CWDGLibsPack 六魔包整合函数库库
     !SDB 六魔包插件组合
