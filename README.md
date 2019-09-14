@@ -6,7 +6,7 @@ Automatically exported from code.google.com/p/jiyun
 
         如果这里不方便，请移步这里下载。
 
-        微云：https://share.weiyun.com/5uhqBBA
+        微云：https://share.weiyun.com/5gdyhdu
         链接: https://pan.baidu.com/s/13mF4JwQp5kG74eJk7CUxXQ 提取码: s7bd 
 ### 联动帖子
         http://bbs.wow.blizzard.cn/forum.php?mod=viewthread&tid=548701
@@ -31,11 +31,10 @@ Automatically exported from code.google.com/p/jiyun
     EKMinimap 小地图美化
     EKPlates 姓名板美化
     FleecingTip 配方购买表示
-    FlightMastersClassic 飞行点标记
     InFlight 飞行计时器
     Inventorian 背包插件
     LittleWigs 副本报警
-    Mapster 地图插件
+    Leatrix_Maps 地图插件
     oGlow 物品高亮
     OmniCC 技能冷却
     oRA3 团队管理
