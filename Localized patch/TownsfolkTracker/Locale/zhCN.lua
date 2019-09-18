@@ -1,5 +1,8 @@
 local L = LibStub("AceLocale-3.0"):NewLocale("TownsfolkTracker", "zhCN")
--- Localization by 急云（curse id:q09q09）update: 20190918 TownsfolkTracker 1.0.3
+if not L then return end
+
+-- Localization by 急云 （Curse ID: q09q09）
+-- Update: 20190918 TownsfolkTracker 1.0.4
 
 L["Townsfolk"] = "镇民"
 L["All"] = "全选"
@@ -41,6 +44,7 @@ L["Tailoring"] = "裁缝"
 L["Weapon"] = "武器大师"
 
 L["Wanders this path"] = "走这条路"
+L["Not always here"] = "不总是在这里"
 
 L["Instances"] = "副本"
 L["Dungeon"] = "地下城"
@@ -177,7 +181,7 @@ L["Night Elf Armorer"] = "暗夜精灵护甲商"
 L["Accessories Quartermaster"] = "杂货军需官"
 L["Tailoring Supplies"] = "裁缝供应商"
 L["Tailoring Supplies & Specialty Goods"] = "特殊裁缝物资"
-L["Specialty Goods"] = "特殊商品"--? 
+L["Specialty Goods"] = "特殊商品"--?
 L["Special Goods Dealer"] = "特殊货物"
 L["Leatherworking Supplies"] = "制皮供应商"
 L["Tailoring & Leatherworking Supplies"] = "裁缝和制皮供应商"
@@ -263,6 +267,9 @@ L["Ram"] = "山羊"
 L["Mechanostrider"] = "机械陆行鸟"
 L["Nightsaber"] = "夜刃豹"
 L["Rare Goods"] = "稀有货物"
+L["Axecrafter"] = "斧匠"
+L["Fish Merchant"] = "鱼商"
+L["Superior Armorsmith"] = "高级护甲锻造师"
 
 -- Ammunition
 L["Nadia Vernon"] = "纳迪亚·沃农"
@@ -503,6 +510,16 @@ L["Bartender Lillian"] = "调酒师莉莉安"
 L["Craig Nollward"] = "克莱格·诺瓦德"
 L["Narj Deepslice"] = "纳尔基·长刀"
 L["Targot Jinglepocket"] = "塔戈特·吉波克"
+L["Dillord Copperpinch"] = "迪洛德·科宾其"
+L["Hecht Copperpinch"] = "赫克·科宾其"
+L["Kurll"] = "库尔"
+L["Tukk"] = "图克"
+L["Sarah Raycroft"] = "莎拉·雷克劳夫特"
+L["Bront Coldcleave"] = "布隆特·寇德克利夫"
+L["Neema"] = "奈玛"
+L["Barkeep Kelly"] = "酒吧老板凯利"
+L["Hal McAllister"] = "哈尔·马克奥里斯特"
+L["Mirvyna Jinglepocket"] = "米维纳·吉波克"
 
 -- Flight Masters
 L["Devrak"] = "迪弗拉克"
@@ -540,6 +557,9 @@ L["Ariena Stormfeather"] = "艾蕾娜·斯托姆法瑟"
 L["Felicia Maline"] = "菲利希亚·玛林"
 L["Baldruc"] = "巴德拉克"
 L["Cedrik Prose"] = "瑟迪克·普罗斯"
+L["Kroum"] = "克隆姆"
+L["Thalon"] = "萨隆"
+L["Darla Harris"] = "达尔拉·哈瑞斯"
 
 -- Innkeepers
 L["Innkeeper Gryshka"] = "旅店老板格雷什卡"
@@ -575,6 +595,8 @@ L["Innkeeper Brianna"] = "旅店老板布瑞安娜"
 L["Innkeeper Trelayne"] = "旅店老板崔莱尼"
 L["Innkeeper Kimlya"] = "旅店老板基姆利雅"
 L["Innkeeper Janene"] = "旅店老板詹妮"
+L["Innkeeper Sikewa"] = "旅店老板希科瓦"
+L["Innkeeper Anderson"] = "旅店老板安德森"
 
 -- Poisons
 L["Patrice Dwyer"] = "帕崔斯·杜耶尔"
@@ -590,6 +612,8 @@ L["Sly Garrett"] = "斯莱·加瑞特"
 L["Gerald Crawley"] = "格拉德·克劳雷"
 L["Malissa"] = "玛丽萨"
 L["Fahran Silentblade"] = "法兰·沉默之刃"
+L["Smudge Thunderwood"] = "斯穆德·雷木"
+L["Jaysin Lanyda"] = "杰森·兰达"
 
 -- Reagents
 L["Ronald Burch"] = "罗纳德·伯奇"
@@ -771,6 +795,17 @@ L["Deneb Walker"] = "德尼布·沃克"
 L["Androd Fadran"] = "安多德·法德兰"
 L["Hammon Karwn"] = "哈蒙·卡文"
 L["Drovnar Strongbrew"] = "德鲁纳·烈酒"
+L["Zan Shivsproket"] = "萨恩·刀链"
+L["Bro'kin"] = "布洛金"
+L["Rizz Loosebolt"] = "里兹·飞矢"
+L["Blimo Gadgetspring"] = "布里莫·加基斯宾"
+L["Jubie Gadgetspring"] = "朱比·加基斯宾"
+L["Vendor-Tron 1000"] = "贸易机器人1000型"
+L["Mai'Lahii"] = "麦拉斯"
+L["Lah'Mawhani"] = "拉玛维"
+L["Micha Yance"] = "米沙·杨斯"
+L["Nandar Branson"] = "南达·布拉森"
+L["Lindea Rabonne"] = "林迪·拉波尼"
 
 -- Repairs
 L["Alexandre Lefevre"] = "亚历山德勒·雷夫瑞"
@@ -985,6 +1020,12 @@ L["Hans Weston"] = "汉斯·温斯顿"
 L["Wenna Silkbeard"] = "温纳·银须"
 L["Jannos Ironwill"] = "加诺斯·铁心"
 L["Samuel Hawke"] = "萨缪尔·霍克"
+L["Jekyll Flandring"] = "乔雷克·铁盾"
+L["Kelm Hargunth"] = "凯尔姆·哈古斯"
+L["Gruul Darkblade"] = "格鲁尔·黑刃"
+L["Hae'Wilani"] = "海维拉尼"
+L["Robert Aebischer"] = "罗伯特·埃比斯彻尔"
+L["Thanthaldis Snowgleam"] = "塔萨迪斯·雪光"
 
 -- Stable Masters
 L["Sikwa"] = "希克瓦"
@@ -1028,6 +1069,8 @@ L["Penny"] = "本尼"
 L["Steven Black"] = "斯蒂文·布莱克"
 L["Maluressian"] = "玛鲁希亚"
 L["Michael"] = "麦克尔"
+L["Aboda"] = "安伯达"
+L["Wesley"] = "维斯雷"
 
 -- Trainers
 L["Eunice Burch"] = "尤奈斯·伯奇"
@@ -1478,6 +1521,14 @@ L["Doctor Gustaf VanHowzen"] = "古斯塔夫·范沃森医生"
 L["Alchemist Narett"] = "炼金师纳瑞特"
 L["Brant Jasperbloom"] = "布兰特·加斯布鲁姆"
 L["Timothy Worthington"] = "提莫斯·沃森特"
+L["Fahrad"] = "法拉德"
+L["Peter Galen"] = "彼得·加林"
+L["Lui'Mala"] = "鲁伊马拉"
+L["Wulan"] = "乌兰"
+L["Malux"] = "马鲁克斯"
+L["Donald Rabonne"] = "唐纳德·拉波尼"
+L["Alchemist Mallory"] = "炼金师玛洛瑞"
+L["Herbalist Pomeroy"] = "草药师博米洛伊"
 
 -- Transportation Zones
 L["Skull Rock, Durotar"] = "骷髅石, 杜隆塔尔"
