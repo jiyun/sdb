@@ -2,7 +2,7 @@ local L = LibStub("AceLocale-3.0"):NewLocale("TownsfolkTracker", "zhCN")
 if not L then return end
 
 -- Localization by 急云 （Curse ID: q09q09）
--- Update: 20190918 TownsfolkTracker 1.0.4
+-- Update: 20190919 TownsfolkTracker 1.0.4
 
 L["Townsfolk"] = "镇民"
 L["All"] = "全选"
@@ -161,10 +161,10 @@ L["Metalsmith"] = "铁匠"
 L["Cobbler"] = "皮匠"
 L["Dwarven Weaponsmith"] = "矮人武器锻造师"
 L["Superior Weaponsmith"] = "高级武器锻造师"
-L["Master Weaponsmith"] = "武器锻造大师"--?"
+L["Master Weaponsmith"] = "武器锻造大师"--?
 L["Weaponsmith & Armorcrafter"] = "武器和护甲"
 L["Weaponsmith & Armorer"] = "武器和护甲"
-L["Armorer & Shieldcrafter"] = "武器和护甲--？"
+L["Armorer & Shieldcrafter"] = "武器和护甲"--？
 L["Armorer & Shieldsmith"] = "护甲和盾牌供应商"
 L["Shield Crafter"] = "铸盾师"
 L["Weapon Merchant"] = "武器商"
@@ -190,7 +190,7 @@ L["Specialist Leatherworking Supplies"] = "特殊制皮供应商"
 L["Engineering Supplies"] = "工程学供应商"
 L["Engineering and Mining Supplies"] = "工程学和采矿供应商"
 L["Engineering Goods"] = "工程学和杂货供应商"
-L["Blacksmithing Supplier"] = "锻造供应商"--？"
+L["Blacksmithing Supplier"] = "锻造供应商"--？
 L["Blacksmithing Supplies"] = "锻造供应商"
 L["Mining Supplier"] = "采矿供应商"
 L["Mining Supplies"] = "采矿供应商"
