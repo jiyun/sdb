@@ -33,7 +33,6 @@ Automatically exported from code.google.com/p/jiyun
         EKMinimap 小地图美化
         EKPlates 姓名板美化
         EnhanceBattlefieldMinimap 战场地图炫酷
-        FleecingTip 配方购买表示
         InFlight 飞行计时器
         Inventorian 背包插件
         LittleWigs 副本报警
@@ -48,7 +47,9 @@ Automatically exported from code.google.com/p/jiyun
         RecipeRadarClassic 配方雷达 独家汉化
         ShadowedUnitFrames 头像美化
         Storyline 故事线任务对话框美化
+        SmartBuff 智能增益
         TinyTooltip 工具提示
         TitanClassic 信息条
         TomTom 标机导航
-        tullaRange 距离染色undefined
+        tullaRange 距离染色
+        XLoot 拾取框美化
