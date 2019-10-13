@@ -2,7 +2,7 @@ local L = LibStub("AceLocale-3.0"):NewLocale("TownsfolkTracker", "zhCN")
 if not L then return end
 
 -- Localization by 急云 （Curse ID: q09q09）
--- Update: 20190922 TownsfolkTracker 1.0.5
+-- Update: 201901014 TownsfolkTracker 1.0.7
 
 L["Townsfolk"] = "镇民"
 L["All"] = "全选"
@@ -1074,6 +1074,7 @@ L["Hartash"] = "哈塔什"
 L["Zulrg"] = "祖尔格"
 L["Altsoba Ragetotem"] = "奥索巴·暴怒图腾"
 L["Smith Slagtree"] = "铁匠斯拉提"
+L["Wallace the Blind"] = "盲眼瓦拉斯"
 
 -- Stable Masters
 L["Sikwa"] = "希克瓦"
@@ -1593,6 +1594,9 @@ L["Haromm"] = "哈洛姆"
 L["Rogvar"] = "罗格瓦尔"
 L["Balai Lok'Wein"] = "赞巴莱"
 L["Nat Pagle"] = "纳特·帕格"
+L["Karolek"] = "卡洛雷克"
+L["Kamari"] = "卡玛瑞"
+L["Thuwd"] = "苏尔德"
 
 -- Transportation Zones
 L["Skull Rock, Durotar"] = "骷髅石, 杜隆塔尔"
